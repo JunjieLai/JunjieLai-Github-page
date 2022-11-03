@@ -13,6 +13,7 @@ I am a **Student** of MIS at the [Southwestern University of Finance and Economi
 * NLP
 
 ## Repository Structure
+
 | Folder/Code | Content                                                      |
 | :---------- | ------------------------------------------------------------ |
 | .streamlit  | Contains the confiq.toml to set certain design parameters    |
