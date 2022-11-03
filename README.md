@@ -14,7 +14,7 @@ I am a **Student** of MIS at the [Southwestern University of Finance and Economi
 
 ## Repository Structure
 
-| Folder/Code | Content                                                      |
+| **Folder/Code** | **Content**                                                      |
 | :---------- | ------------------------------------------------------------ |
 | .streamlit  | Contains the confiq.toml to set certain design parameters    |
 | data        | Contains the scraped (and cleaned) Chicago Crime data in CSV format |
